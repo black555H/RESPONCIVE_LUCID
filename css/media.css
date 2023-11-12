@@ -1,0 +1,361 @@
+@media(max-width:768px){
+
+    .phone{
+        display: none;
+        position: static;
+    }
+    .mobile_phone{
+        display: inherit;
+        text-align: center;
+        margin: auto;
+        width: 100%;
+    }
+
+
+    .nav-item{
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+    .feature_section {
+        padding: 40px 0 0;
+    }
+    .heading {
+        margin-bottom: 20px;
+    }
+    .phone_buity {
+        padding: 30px 0 30px;
+    }
+    .heading_device {
+        padding-top: 0px;
+    }
+    .heading_device h1 {
+        font-size: 32px;
+    }
+    .phone2 {
+        padding-top: 40px;
+    }
+    .heading h1 {
+        font-size: 32px;
+    }
+    .icon_section h3 {
+        font-size: 22px;
+    }
+    .phone3 {
+        padding-top: 90px;
+    }
+    .custom_heading h1 {
+        font-size: 32px;
+    }
+    .heading_plans {
+        padding: 40px 0 20px;
+    }
+    .button_bar {
+        text-align: center;
+    }
+    .btn_views {
+        padding: 15px 35px;
+        margin-top: 8px;
+    }
+    .btn_downloads {
+        margin-right: 0px;
+    }
+    .Download {
+        padding: 30px;
+    }
+    .Download h1 {
+        padding-top: 10px;
+    }
+    .price_heading {
+        padding: 30px;
+    }
+    .line_one h3 {
+        font-size: 23px;
+    }
+    .btn_card {
+        font-size: 16px;
+        padding: 8px 10px;
+    }
+    .line_three p {
+        padding: 8px 0 0;
+        margin-bottom: 0;
+    }
+    .form_heading {
+        padding: 30px;
+    }
+    .form {
+        width: 80%;
+    }
+    footer {
+        padding: 15px 0 0px;
+    }
+}
+
+@media(max-width:575px){
+    .nav-item{
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+    .phone{
+        display: none;
+        position: static;
+    }
+    .mobile_phone{
+        display: inherit;
+        text-align: center;
+        margin: auto;
+        width: 80%;
+        margin-bottom: 20px;
+    }
+    .hight{
+        text-align: center;
+        flex-direction: column-reverse;
+        margin-bottom: 20px;
+    }
+    header p{
+        padding: 20px 0;
+    }
+    header{
+        padding-bottom: 30px;
+    }
+    .feature_section {
+        padding: 30px 0 10px;
+    }
+    .heading {
+        margin-bottom: 10px;
+    }
+    .icon_section p {
+        margin-bottom: 10px;
+    }
+    .phone2 {
+        width: 50%;
+        margin: auto;
+    }
+    .phone_buity {
+        padding: 20px 0 20px;
+    }
+    .heading_device p {
+        margin: 0;
+    }
+    .heading_device {
+        padding-top: 0px;
+    }
+    .heading_device h4 {
+        text-align: center;
+    }
+    .heading_device h1 {
+        text-align: center;
+    }
+    .custom_heading {
+        padding-top: 25px;
+    }
+    .custom_heading h1 {
+        padding-top: 10px;
+        text-align: center;
+    }
+    .heading_device span {
+        margin: auto;
+        padding-top: 20px;
+    }
+    .phone3 {
+        padding-top: 0px;
+        width: 70%;
+        margin: auto;
+    }
+    .custom_heading h4 {
+        text-align: center;
+    }
+    .custom_heading span {
+        margin: auto;
+        padding-top: 20px;
+    }
+    .heading_device span {
+        margin: auto;
+        padding-top: 20px;
+    }
+    .owl-dots {
+        margin-top: 0px;
+    }
+    .Download h1 {
+        text-align: center;
+    }
+    .Download {
+        padding: 25px;
+    }
+    .button_bar {
+        text-align: center;
+        padding-top: 10px;
+    }
+    .btn_views {
+        padding: 10px 22px;
+        margin-top: 0;
+    }
+    .btn_downloads {
+        padding: 10px 22px;
+        margin-right: 10px;
+    }
+    .price_heading {
+        padding: 40px 0 20px;
+    }
+    .pricing_tabble {
+        padding-bottom: 10px;
+    }
+    .form_heading {
+        padding: 30px;
+    }
+    .form_heading h1 {
+        padding-top: 10px;
+    }
+    .form_icon {
+        padding-bottom: 10px;
+    }
+    .form_sectioin {
+        padding-bottom: 290px;
+    }
+    .form {
+        width: 80%;
+        bottom: -150px;
+    }
+    footer {
+        padding: 12px 0 5px;
+    }
+    .footer_icon ul li i {
+        font-size: 20px;
+    }
+}
+
+@media(max-width:425px){
+    header h1 {
+        font-size: 40px;
+    }
+    header p {
+        padding: 15px 0;
+    }
+    header {
+        padding-bottom: 15px;
+    }
+    .btn_view{
+        padding: 10px 25px;
+    }
+    .btn_download{
+        padding: 10px 20px;
+    }
+    .heading span {
+        margin-top: 10px;
+    }
+    .heading h1 {
+        padding-top: 10px;
+    }
+    .btn_views{
+        margin-top: 0;
+    }
+}
+
+@media(max-width:375px){
+    header p{
+        padding: 10px 0;
+    }
+    header{
+        padding-bottom: 20px;
+    }
+    header h1 {
+        font-size: 30px;
+    }
+    .btn_download {
+        padding: 7px 10px;
+    }
+    .btn_view {
+        padding: 7px 13px;
+    }
+    .heading h1 {
+        font-size: 28px;
+    }
+    .heading span {
+        margin-top: 10px;
+    }
+    .heading {
+        margin-bottom: 15px;
+    }
+    .feature_section {
+        padding: 30px 0 0;
+    }
+    .icon_section h3 {
+        padding: 10px 0 10px;
+    }
+    .phone_buity {
+        padding: 0px 0 10px;
+    }
+    .heading_device h1 {
+        font-size: 28px;
+    }
+    .heading_device p {
+        font-size: 16px;
+    }
+    .custom_heading {
+        padding-top: 15px;
+    }
+    .custom_heading h1 {
+        font-size: 28px;
+    }
+    .custom_heading p {
+        font-size: 16px;
+        padding: 0; 
+    }
+    .heading_plans {
+        padding: 30px 0 15px;
+    }
+    .heading_plans h1 {
+        font-size: 28px;
+    }
+    .pricing_content p {
+        font-size: 16px;
+        margin-top: 0px;
+    }
+    .owl-dots {
+        padding-bottom: 20px;
+    }
+    .Download h1 {
+        font-size: 28px;
+    }
+    .btn_downloads {
+        padding: 7px 10px;
+        font-size: 12px;
+    }
+    .btn_views {
+        padding: 7px 10px;
+        font-size: 12px;
+        margin-top: 0;
+    }
+    .price_heading {
+        padding: 20px 0 10px;
+    }
+    .price_heading h1 {
+        font-size: 28px;
+    }
+    .price_heading span {
+        margin-top: 10px;
+    }
+    .form_heading {
+        padding: 18px;
+    }
+    .form_heading span {
+        margin-top: 10px;
+    }
+    .form_icon i {
+        padding-bottom: 10px;
+    }
+    .form {
+        padding: 20px 30px;
+    }
+    .form_sectioin {
+        padding-bottom: 260px;
+    }
+    .footer_icon ul li i {
+        font-size: 18px;
+    }
+}
+
+
+
+
